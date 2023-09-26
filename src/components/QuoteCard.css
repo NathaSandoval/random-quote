@@ -1,0 +1,27 @@
+.quoteCard {
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: 1fr auto;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    color: white;
+}
+
+.quoteCard__phrase {
+    margin: 30px auto;
+
+   
+    padding: 70px 33px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 39px;
+    background: linear-gradient(180deg, #FFF 0%, rgba(255, 255, 255, 0.33) 100%);
+    color: #25063F;
+
+
+
+
+
+    
+}

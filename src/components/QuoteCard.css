@@ -9,9 +9,7 @@
 }
 
 .quoteCard__phrase {
-    margin: 30px auto;
-
-   
+    margin: 30px auto;   
     padding: 70px 33px;
     align-items: flex-start;
     gap: 10px;
